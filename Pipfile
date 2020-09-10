@@ -15,6 +15,8 @@ joblib = "*"
 scikit-learn = "==0.21.3"
 category-encoders = "*"
 jupyter = "*"
+xgboost = "*"
+dash-daq = "*"
 
 [requires]
 python_version = "3.7"

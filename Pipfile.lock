@@ -1,11 +1,11 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "efc9f736bbc30bbccdaf57c935a3ac90cb953125e7750f06d851b6f9d9c3de73"
+            "sha256": "78f62e422d705776f3e9b8b22f5206f68eba805349499652ddd89d0262f6d668"
         },
         "pipfile-spec": 6,
         "requires": {
-            "python_version": "3"
+            "python_version": "3.7"
         },
         "sources": [
             {
@@ -155,16 +155,24 @@
         },
         "dash-bootstrap-components": {
             "hashes": [
-                "sha256:40500e692f59648dbc024b9e921a1e1410ee0bc97cfa963990e54e42523679b4"
+                "sha256:1cefacf48a1177ad2b147a811aeedf02828663b3cd8b71f74a77e106aee7c448",
+                "sha256:c8f491462cbc243778890d81dd228045c878218fefcb6e0ea2b270f625f7f105"
             ],
             "index": "pypi",
-            "version": "==0.10.5"
+            "version": "==0.10.6"
         },
         "dash-core-components": {
             "hashes": [
                 "sha256:803b54d01ca48b90f3fc1652f7be9f818ed2882da8975a51b99fc2d77dd2727e"
             ],
             "version": "==1.12.0"
+        },
+        "dash-daq": {
+            "hashes": [
+                "sha256:a1d85b6799f7b885652fbc44aebdb58c41254616a8d350b943beeb42ade4256a"
+            ],
+            "index": "pypi",
+            "version": "==0.5.0"
         },
         "dash-html-components": {
             "hashes": [
@@ -760,6 +768,16 @@
                 "sha256:bd314f8ceb488571a5ffea6cc5b9fc6cba0adaf88a9d2386b93a489751938bcd"
             ],
             "version": "==3.5.1"
+        },
+        "xgboost": {
+            "hashes": [
+                "sha256:60763bc2fa4db76a05b8267abb3c2472525dc4d0c944ef880517939f550e2c94",
+                "sha256:9e6c1a94b56c3907a214aa72789d088efa4d294ba5ce50f27582dd6e4a7d1701",
+                "sha256:e5f4abcd5df6767293f31b7c58d67ea38b2689641a95b2cd8ca8935295097a36",
+                "sha256:f9f2df87c07032384ccb5bbbd1d4902fc2da927e663fb0cb722ba01f710bb6a1"
+            ],
+            "index": "pypi",
+            "version": "==1.2.0"
         },
         "zipp": {
             "hashes": [
